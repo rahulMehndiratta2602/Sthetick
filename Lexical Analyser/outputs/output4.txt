@@ -1,0 +1,146 @@
+'#include' is error on lineno 4
+'<' is a RELATIONAL OPERATOR on lineno 4
+'stdio.h' is error on lineno 4
+'>' is a RELATIONAL OPERATOR on lineno 4
+'int' is a KEYWORD on lineno 6
+'main' is an IDENTIFIER on lineno 6
+'(' is a BRACKET on lineno 6
+')' is a BRACKET on lineno 6
+'{' is a BRACKET on lineno 7
+'	' is error on lineno 8
+'	int' is error on lineno 9
+'a' is an IDENTIFIER on lineno 9
+'b' is an IDENTIFIER on lineno 9
+'i' is an IDENTIFIER on lineno 9
+'j' is an IDENTIFIER on lineno 9
+'flag' is an IDENTIFIER on lineno 9
+'	printf' is error on lineno 11
+'(' is a BRACKET on lineno 11
+'Enter' is an IDENTIFIER on lineno 11
+'lower' is an IDENTIFIER on lineno 11
+'bound' is an IDENTIFIER on lineno 11
+'of' is an IDENTIFIER on lineno 11
+'the' is an IDENTIFIER on lineno 11
+'interval:' is error on lineno 11
+')' is a BRACKET on lineno 11
+'	scanf' is error on lineno 12
+'(' is a BRACKET on lineno 12
+'%' is an ARITHMETIC OPERATOR on lineno 12
+'d' is an IDENTIFIER on lineno 12
+'a' is an IDENTIFIER on lineno 12
+')' is a BRACKET on lineno 12
+'	' is error on lineno 14
+'	printf' is error on lineno 15
+'(' is a BRACKET on lineno 15
+'\nEnter' is error on lineno 15
+'upper' is an IDENTIFIER on lineno 15
+'bound' is an IDENTIFIER on lineno 15
+'of' is an IDENTIFIER on lineno 15
+'the' is an IDENTIFIER on lineno 15
+'interval:' is error on lineno 15
+')' is a BRACKET on lineno 15
+'	scanf' is error on lineno 16
+'(' is a BRACKET on lineno 16
+'%' is an ARITHMETIC OPERATOR on lineno 16
+'d' is an IDENTIFIER on lineno 16
+'b' is an IDENTIFIER on lineno 16
+')' is a BRACKET on lineno 16
+'	' is error on lineno 18
+'/' is an ARITHMETIC OPERATOR on lineno 18
+'/' is an ARITHMETIC OPERATOR on lineno 18
+'Print' is an IDENTIFIER on lineno 18
+'display' is an IDENTIFIER on lineno 18
+'message' is an IDENTIFIER on lineno 18
+'	printf' is error on lineno 19
+'(' is a BRACKET on lineno 19
+'\nPrime' is error on lineno 19
+'numbers' is an IDENTIFIER on lineno 19
+'between' is an IDENTIFIER on lineno 19
+'%' is an ARITHMETIC OPERATOR on lineno 19
+'d' is an IDENTIFIER on lineno 19
+'and' is an IDENTIFIER on lineno 19
+'%' is an ARITHMETIC OPERATOR on lineno 19
+'d' is an IDENTIFIER on lineno 19
+'are:' is error on lineno 19
+'a' is an IDENTIFIER on lineno 19
+'b' is an IDENTIFIER on lineno 19
+')' is a BRACKET on lineno 19
+'	' is error on lineno 21
+'	for' is error on lineno 22
+'(' is a BRACKET on lineno 22
+'i' is an IDENTIFIER on lineno 22
+'=' is an ASSIGNMENT_OPERATOR on lineno 22
+'a' is an IDENTIFIER on lineno 22
+'i' is an IDENTIFIER on lineno 22
+'<=' is a RELATIONAL OPERATOR on lineno 22
+'b' is an IDENTIFIER on lineno 22
+'i' is an IDENTIFIER on lineno 22
+'+' is an ARITHMETIC OPERATOR on lineno 22
+'+' is an ARITHMETIC OPERATOR on lineno 22
+')' is a BRACKET on lineno 22
+'{' is a BRACKET on lineno 22
+'		' is error on lineno 23
+'		if' is error on lineno 24
+'(' is a BRACKET on lineno 24
+'i' is an IDENTIFIER on lineno 24
+'==' is a RELATIONAL OPERATOR on lineno 24
+'1' is an INTEGER on lineno 24
+'i' is an IDENTIFIER on lineno 24
+'==' is a RELATIONAL OPERATOR on lineno 24
+'0' is an INTEGER on lineno 24
+')' is a BRACKET on lineno 24
+'			continue' is error on lineno 25
+'		' is error on lineno 27
+'		flag' is error on lineno 28
+'=' is an ASSIGNMENT_OPERATOR on lineno 28
+'1' is an INTEGER on lineno 28
+'		for' is error on lineno 30
+'(' is a BRACKET on lineno 30
+'j' is an IDENTIFIER on lineno 30
+'=' is an ASSIGNMENT_OPERATOR on lineno 30
+'2' is an INTEGER on lineno 30
+'j' is an IDENTIFIER on lineno 30
+'<=' is a RELATIONAL OPERATOR on lineno 30
+'i' is an IDENTIFIER on lineno 30
+'/' is an ARITHMETIC OPERATOR on lineno 30
+'2' is an INTEGER on lineno 30
+'+' is an ARITHMETIC OPERATOR on lineno 30
+'+' is an ARITHMETIC OPERATOR on lineno 30
+'j' is an IDENTIFIER on lineno 30
+')' is a BRACKET on lineno 30
+'{' is a BRACKET on lineno 30
+'			if' is error on lineno 31
+'(' is a BRACKET on lineno 31
+'i' is an IDENTIFIER on lineno 31
+'%' is an ARITHMETIC OPERATOR on lineno 31
+'j' is an IDENTIFIER on lineno 31
+'==' is a RELATIONAL OPERATOR on lineno 31
+'0' is an INTEGER on lineno 31
+')' is a BRACKET on lineno 31
+'{' is a BRACKET on lineno 31
+'				flag' is error on lineno 32
+'=' is an ASSIGNMENT_OPERATOR on lineno 32
+'0' is an INTEGER on lineno 32
+'				break' is error on lineno 33
+'			' is error on lineno 34
+'}' is a BRACKET on lineno 34
+'		' is error on lineno 35
+'}' is a BRACKET on lineno 35
+'	' is error on lineno 37
+'		if' is error on lineno 38
+'(' is a BRACKET on lineno 38
+'flag' is an IDENTIFIER on lineno 38
+'==' is a RELATIONAL OPERATOR on lineno 38
+'1' is an INTEGER on lineno 38
+')' is a BRACKET on lineno 38
+'			printf' is error on lineno 39
+'(' is a BRACKET on lineno 39
+'%' is an ARITHMETIC OPERATOR on lineno 39
+'d' is an IDENTIFIER on lineno 39
+'i' is an IDENTIFIER on lineno 39
+')' is a BRACKET on lineno 39
+'	' is error on lineno 40
+'}' is a BRACKET on lineno 40
+'	return' is error on lineno 42
+'0' is an INTEGER on lineno 42
+'}' is a BRACKET on lineno 43

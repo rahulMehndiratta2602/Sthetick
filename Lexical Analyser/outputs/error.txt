@@ -1,0 +1,5 @@
+'abc' is an IDENTIFIER on lineno 1
+'abc#' is error on lineno 2
+'ab#c' is error on lineno 3
+'#abc' is error on lineno 4
+'abc:' is error on lineno 5

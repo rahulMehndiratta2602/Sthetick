@@ -1,0 +1,66 @@
+'#include' is error on lineno 1
+'<' is a RELATIONAL OPERATOR on lineno 1
+'stdio.h' is error on lineno 1
+'>' is a RELATIONAL OPERATOR on lineno 1
+'int' is a KEYWORD on lineno 3
+'main' is an IDENTIFIER on lineno 3
+'(' is a BRACKET on lineno 3
+')' is a BRACKET on lineno 3
+'{' is a BRACKET on lineno 4
+'int' is a KEYWORD on lineno 5
+'x' is an IDENTIFIER on lineno 5
+'y' is an IDENTIFIER on lineno 5
+'printf' is an IDENTIFIER on lineno 6
+'(' is a BRACKET on lineno 6
+'Enter' is an IDENTIFIER on lineno 6
+'Value' is an IDENTIFIER on lineno 6
+'of' is an IDENTIFIER on lineno 6
+'x' is an IDENTIFIER on lineno 6
+')' is a BRACKET on lineno 6
+'scanf' is an IDENTIFIER on lineno 7
+'(' is a BRACKET on lineno 7
+'%' is an ARITHMETIC OPERATOR on lineno 7
+'d' is an IDENTIFIER on lineno 7
+'x' is an IDENTIFIER on lineno 7
+')' is a BRACKET on lineno 7
+'printf' is an IDENTIFIER on lineno 8
+'(' is a BRACKET on lineno 8
+'\nEnter' is error on lineno 8
+'Value' is an IDENTIFIER on lineno 8
+'of' is an IDENTIFIER on lineno 8
+'y' is an IDENTIFIER on lineno 8
+')' is a BRACKET on lineno 8
+'scanf' is an IDENTIFIER on lineno 9
+'(' is a BRACKET on lineno 9
+'%' is an ARITHMETIC OPERATOR on lineno 9
+'d' is an IDENTIFIER on lineno 9
+'y' is an IDENTIFIER on lineno 9
+')' is a BRACKET on lineno 9
+'int' is a KEYWORD on lineno 11
+'temp' is an IDENTIFIER on lineno 11
+'=' is an ASSIGNMENT_OPERATOR on lineno 11
+'x' is an IDENTIFIER on lineno 11
+'x' is an IDENTIFIER on lineno 12
+'=' is an ASSIGNMENT_OPERATOR on lineno 12
+'y' is an IDENTIFIER on lineno 12
+'y' is an IDENTIFIER on lineno 13
+'=' is an ASSIGNMENT_OPERATOR on lineno 13
+'temp' is an IDENTIFIER on lineno 13
+'printf' is an IDENTIFIER on lineno 15
+'(' is a BRACKET on lineno 15
+'\nAfter' is error on lineno 15
+'Swapping:' is error on lineno 15
+'x' is an IDENTIFIER on lineno 15
+'=' is an ASSIGNMENT_OPERATOR on lineno 15
+'%' is an ARITHMETIC OPERATOR on lineno 15
+'d' is an IDENTIFIER on lineno 15
+'y' is an IDENTIFIER on lineno 15
+'=' is an ASSIGNMENT_OPERATOR on lineno 15
+'%' is an ARITHMETIC OPERATOR on lineno 15
+'d' is an IDENTIFIER on lineno 15
+'x' is an IDENTIFIER on lineno 15
+'y' is an IDENTIFIER on lineno 15
+')' is a BRACKET on lineno 15
+'return' is a KEYWORD on lineno 16
+'0' is an INTEGER on lineno 16
+'}' is a BRACKET on lineno 17

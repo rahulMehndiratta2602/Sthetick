@@ -1,0 +1,57 @@
+'<' is a RELATIONAL OPERATOR on lineno 3
+'>' is a RELATIONAL OPERATOR on lineno 3
+'int' is a KEYWORD on lineno 6
+'getSum' is an IDENTIFIER on lineno 6
+'(' is a BRACKET on lineno 6
+'int' is a KEYWORD on lineno 6
+'n' is an IDENTIFIER on lineno 6
+')' is a BRACKET on lineno 6
+'{' is a BRACKET on lineno 7
+'int' is a KEYWORD on lineno 8
+'sum' is an IDENTIFIER on lineno 8
+'=' is an ASSIGNMENT_OPERATOR on lineno 8
+'0' is an INTEGER on lineno 8
+'while' is a KEYWORD on lineno 9
+'(' is a BRACKET on lineno 9
+'n' is an IDENTIFIER on lineno 9
+'!=' is a RELATIONAL OPERATOR on lineno 9
+'0' is an INTEGER on lineno 9
+')' is a BRACKET on lineno 9
+'{' is a BRACKET on lineno 9
+'sum' is an IDENTIFIER on lineno 10
+'=' is an ASSIGNMENT_OPERATOR on lineno 10
+'sum' is an IDENTIFIER on lineno 10
+'+' is an ARITHMETIC OPERATOR on lineno 10
+'n' is an IDENTIFIER on lineno 10
+'%' is an ARITHMETIC OPERATOR on lineno 10
+'10' is an INTEGER on lineno 10
+'n' is an IDENTIFIER on lineno 11
+'=' is an ASSIGNMENT_OPERATOR on lineno 11
+'n' is an IDENTIFIER on lineno 11
+'/' is an ARITHMETIC OPERATOR on lineno 11
+'10' is an INTEGER on lineno 11
+'}' is a BRACKET on lineno 12
+'return' is a KEYWORD on lineno 13
+'sum' is an IDENTIFIER on lineno 13
+'}' is a BRACKET on lineno 14
+'int' is a KEYWORD on lineno 17
+'main' is an IDENTIFIER on lineno 17
+'(' is a BRACKET on lineno 17
+')' is a BRACKET on lineno 17
+'{' is a BRACKET on lineno 18
+'int' is a KEYWORD on lineno 19
+'n' is an IDENTIFIER on lineno 19
+'=' is an ASSIGNMENT_OPERATOR on lineno 19
+'687' is an INTEGER on lineno 19
+'printf' is an IDENTIFIER on lineno 20
+'(' is a BRACKET on lineno 20
+'%' is an ARITHMETIC OPERATOR on lineno 20
+'d' is an IDENTIFIER on lineno 20
+'getSum' is an IDENTIFIER on lineno 20
+'(' is a BRACKET on lineno 20
+'n' is an IDENTIFIER on lineno 20
+')' is a BRACKET on lineno 20
+')' is a BRACKET on lineno 20
+'return' is a KEYWORD on lineno 21
+'0' is an INTEGER on lineno 21
+'}' is a BRACKET on lineno 22

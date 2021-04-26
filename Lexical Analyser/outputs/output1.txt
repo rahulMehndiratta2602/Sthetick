@@ -1,0 +1,58 @@
+'#include' is error on lineno 1
+'<' is a RELATIONAL OPERATOR on lineno 1
+'stdio.h' is error on lineno 1
+'>' is a RELATIONAL OPERATOR on lineno 1
+'int' is a KEYWORD on lineno 2
+'fib' is an IDENTIFIER on lineno 2
+'(' is a BRACKET on lineno 2
+'int' is a KEYWORD on lineno 2
+'n' is an IDENTIFIER on lineno 2
+')' is a BRACKET on lineno 2
+'{' is a BRACKET on lineno 3
+'if' is a KEYWORD on lineno 4
+'(' is a BRACKET on lineno 4
+'n' is an IDENTIFIER on lineno 4
+'<=' is a RELATIONAL OPERATOR on lineno 4
+'1' is an INTEGER on lineno 4
+')' is a BRACKET on lineno 4
+'return' is a KEYWORD on lineno 5
+'n' is an IDENTIFIER on lineno 5
+'return' is a KEYWORD on lineno 6
+'fib' is an IDENTIFIER on lineno 6
+'(' is a BRACKET on lineno 6
+'n' is an IDENTIFIER on lineno 6
+'-' is an ARITHMETIC OPERATOR on lineno 6
+'1' is an INTEGER on lineno 6
+')' is a BRACKET on lineno 6
+'+' is an ARITHMETIC OPERATOR on lineno 6
+'fib' is an IDENTIFIER on lineno 6
+'(' is a BRACKET on lineno 6
+'n' is an IDENTIFIER on lineno 6
+'-' is an ARITHMETIC OPERATOR on lineno 6
+'2' is an INTEGER on lineno 6
+')' is a BRACKET on lineno 6
+'}' is a BRACKET on lineno 7
+'int' is a KEYWORD on lineno 9
+'main' is an IDENTIFIER on lineno 9
+'(' is a BRACKET on lineno 9
+')' is a BRACKET on lineno 9
+'{' is a BRACKET on lineno 10
+'int' is a KEYWORD on lineno 11
+'n' is an IDENTIFIER on lineno 11
+'=' is an ASSIGNMENT_OPERATOR on lineno 11
+'9' is an INTEGER on lineno 11
+'printf' is an IDENTIFIER on lineno 12
+'(' is a BRACKET on lineno 12
+'%' is an ARITHMETIC OPERATOR on lineno 12
+'d' is an IDENTIFIER on lineno 12
+'fib' is an IDENTIFIER on lineno 12
+'(' is a BRACKET on lineno 12
+'n' is an IDENTIFIER on lineno 12
+')' is a BRACKET on lineno 12
+')' is a BRACKET on lineno 12
+'getchar' is an IDENTIFIER on lineno 13
+'(' is a BRACKET on lineno 13
+')' is a BRACKET on lineno 13
+'return' is a KEYWORD on lineno 14
+'0' is an INTEGER on lineno 14
+'}' is a BRACKET on lineno 15
